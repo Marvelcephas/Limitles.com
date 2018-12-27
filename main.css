@@ -1,0 +1,33 @@
+body {
+	background-color: rgb(156, 236, 232,0.8);
+	font-family:times new roman;
+	/*background-image: url('../VSC/images/IMG_9830.JPG');*/
+	background-position-x: -400px;
+	background-position-y: -100px;
+	margin: 10
+}
+
+h1 {
+	color: green;
+}
+
+a {
+	color: navy;
+}
+
+p {
+	background: #666;
+	color: white;
+    padding: 10px;
+}
+.overlay{
+	background-color:rgba(136, 146, 179, 0.89);
+}
+
+ul li {
+	display: inline-block
+}
+
+h5 {
+	padding: 2
+}
